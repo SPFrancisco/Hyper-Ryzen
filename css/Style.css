@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.contenedor{
+    background-color: grey;
+
+}
+
+
+.general{
+    margin: auto;
+    margin-top: 50px;
+    width: 960px;
+    height: 610px;
+    background-color: grey;
+    margin-bottom: 50PX;
+    }
+
+.botones{
+    float: left;
+    width: 90px;
+    height: 610px;
+    background-color: lightslategray;
+}
+
+.canvas{
+    width: 500px;
+    height: 450px;
+    background-color: white;
+    margin-left: 100px;
+    border-radius: 2rem;
+}
+
+.name{
+    float: right;
+    width: 350px;
+    height: 610px;
+    background-color: grey;
+    text-align: center;
+    font-weight: bold;
+}

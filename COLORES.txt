@@ -1,0 +1,13 @@
+COLORES
+
+
+
+
+
+#FAD011 Amarillo 1
+#156CE0 Azull 2
+#8C979C Gris Base
+
+006FE0 Azul 3
+
+#FAEE00 aMARILLO

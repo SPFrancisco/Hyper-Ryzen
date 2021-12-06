@@ -1,0 +1,157 @@
+<div class="general">
+    <div class="row">
+        <!-- Categorias -->
+        <div class="col-4 ml-5">
+            <a href="">
+                <img src="img/silla.jpg" alt="" class="imghome">
+                <!-- Hover Content -->
+                <div class="hover-content">
+                    <div class="line"></div>
+                    <p>From $180</p>
+                    <h4>Modern Chair</h4>
+                </div>
+            </a>
+        </div>
+
+        <!-- Categorias -->
+        <div class="col-4">
+            <a href="">
+                <img src="img/sillaazul.png" alt="" class="imghome">
+                <!-- Hover Content -->
+                <div class="hover-content">
+                    <div class="line"></div>
+                    <p>From $180</p>
+                    <h4>Modern Chair</h4>
+                </div>
+            </a>
+        </div>
+        <div class="col-4">
+            <a href="">
+                <img src="img/mesa.jpg" alt="" class="imghome">
+                <!-- Hover Content -->
+                <div class="hover-content">
+                    <div class="line"></div>
+                    <p>From $180</p>
+                    <h4>Modern Gaming Table</h4>
+                </div>
+            </a>
+        </div>
+
+    </div>
+    <div class="row">
+        <!-- Categorias -->
+        <div class="col-4">
+            <a href="">
+                <img src="img/teclado_.jpg" alt="" class="imghome">
+                <!-- Hover Content -->
+                <div class="hover-content">
+                    <div class="line"></div>
+                    <p>From $180</p>
+                    <h4>Modern Keyboard</h4>
+                </div>
+            </a>
+        </div>
+
+        <!-- Categorias -->
+        <div class="col-4">
+            <a href="">
+                <img src="img/monitor.jpg" alt="" class="imghome">
+                <!-- Hover Content -->
+                <div class="hover-content">
+                    <div class="line"></div>
+                    <p>From $180</p>
+                    <h4>Modern HD </h4>
+                </div>
+            </a>
+        </div>
+        <div class="col-4">
+            <a href="">
+                <img src="img/monitor2.jpg" alt="" class="imghome">
+                <!-- Hover Content -->
+                <div class="hover-content">
+                    <div class="line"></div>
+                    <p>From $180</p>
+                    <h4>Modern MSI Monitor</h4>
+                </div>
+            </a>
+        </div>
+
+    </div>
+
+
+
+
+
+
+
+----------------------------------------------------------
+
+<header class="headerleft">
+
+    <div class="nav-close">
+        <i class="" aria-hidden="true"></i>
+    </div>
+    <!-- Logo -->
+    <div class="logo">
+        <a href="home.html">
+            <img src="img/logo.png" alt="" class="imglogo">
+        </a>
+    </div>
+    
+    <nav class="nav">
+        <ul>
+            <li class="active"><a href="home.html">Home</a></li>
+           
+            <li class="active"><a href="product.html">Product</a></li>
+            <li class="active"><a href="cart.html">Cart</a></li>
+           
+        </ul>
+    </nav>
+    <!-- Cart Menu -->
+    <div class="">
+        <a href="" class="cart-nav"><img src="img/cart.png" alt=""> Cart <span>(0)</span></a>
+        <a href="#" class="fav-nav"><img src="img/favorites.png" alt=""> Favorites</a>
+    </div>
+</header>
+
+
+------------------------------------------------------------------------------------------------------------------
+ <!-- Barra y botom de busqueda -->
+    <div class="homeop">
+        <div class="">
+            <i class="" aria-hidden="true"></i>
+        </div>
+        <div class="search-close">
+            <div class="">
+                <div class="col-12 mt-5">
+                    <div class="search-content">
+                        <form action="#" method="get">
+                            <input type="search" name="search" id="search" placeholder="Type your keyword...">
+                            <button type="submit"><img src="img/search.png" alt=""></button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+.search-close {
+  -webkit-transition-duration: 500ms;
+  transition-duration: 500ms;
+  width: 3em;
+  height: 3em;
+  position: absolute;
+  top: 0;
+  left: 85%;
+  background-color: red;
+  text-align: center;
+  color: #fff;
+  line-height: 30px;
+  font-size: 12px;
+  cursor: pointer;
+  background-color: #fbb710;
+}
+
+.search-close:hover {
+  background-color: #131212;
+}
